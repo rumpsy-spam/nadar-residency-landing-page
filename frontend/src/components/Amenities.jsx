@@ -11,7 +11,7 @@ const Amenities = () => {
   const iconMap = {
     Shield, Home, Navigation, Trees, Droplets, Zap, 
     Building, Eye, CheckCircle, Award, CreditCard, 
-    Certificate, MapPin, Route, Building2
+    FileCheck, MapPin, Route, Building2
   };
 
   const getIcon = (iconName) => {
