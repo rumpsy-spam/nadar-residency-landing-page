@@ -3,7 +3,7 @@ import { Button } from './ui/button';
 import { 
   Phone, Mail, MapPin, Clock, Facebook, Twitter, 
   Instagram, Linkedin, Shield, Award, CreditCard, 
-  Certificate, ArrowUp 
+  FileCheck, ArrowUp 
 } from 'lucide-react';
 import mockData from '../data/mock';
 
