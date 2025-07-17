@@ -3,7 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/
 import { 
   Shield, Home, Navigation, Trees, Droplets, Zap, 
   Building, Eye, CheckCircle, Award, CreditCard, 
-  Certificate, MapPin, Route, Building2
+  FileCheck, MapPin, Route, Building2
 } from 'lucide-react';
 import mockData from '../data/mock';
 
