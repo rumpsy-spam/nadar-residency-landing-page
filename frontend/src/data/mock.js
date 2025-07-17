@@ -106,7 +106,7 @@ export const mockData = {
       id: 4,
       title: "RERA Approved",
       description: "Registered under RERA regulations",
-      icon: "Certificate"
+      icon: "FileCheck"
     }
   ],
 
